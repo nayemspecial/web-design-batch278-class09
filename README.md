@@ -1,5 +1,5 @@
 # web-design-batch278-class09
-web-design-batch278-class09 source files are stored here. you can download this for your practice.
+web-design-batch278-class09. this class was about to Photoshop. Class content is written here.
 
 
 পিএসডি ফাইল কি?,
